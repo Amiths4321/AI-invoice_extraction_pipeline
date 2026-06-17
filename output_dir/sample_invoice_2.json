@@ -1,0 +1,30 @@
+{
+  "Vendor_Name": "Global Office Supplies Ltd.",
+  "Invoice_Number": "GOS-77231",
+  "Invoice_Date": "2026-03-03",
+  "Due_Date": null,
+  "Line_Items": [
+    {
+      "Description": "A4 Paper (box of 10 reams)",
+      "Quantity": 5.0,
+      "Unit_Price": 45.0,
+      "Total_Price": 225.0
+    },
+    {
+      "Description": "Ergonomic Office Chair",
+      "Quantity": 2.0,
+      "Unit_Price": 180.0,
+      "Total_Price": 360.0
+    },
+    {
+      "Description": "Wireless Mouse",
+      "Quantity": 10.0,
+      "Unit_Price": 15.5,
+      "Total_Price": 155.0
+    }
+  ],
+  "Subtotal": 740.0,
+  "Tax_Amount": 74.0,
+  "Total_Amount": 814.0,
+  "Currency": "EUR"
+}

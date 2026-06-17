@@ -1,0 +1,15 @@
+BILL TO: Jane Doe
+FROM: Global Office Supplies Ltd.
+Invoice No: GOS-77231
+Issued: March 3, 2026
+
+Description                Qty   Unit Price   Line Total
+A4 Paper (box of 10 reams)  5     45.00         225.00
+Ergonomic Office Chair      2     180.00        360.00
+Wireless Mouse               10    15.50         155.00
+
+Subtotal: 740.00
+VAT (10%): 74.00
+Grand Total: 814.00 EUR
+
+Payment terms: Net 30 (due date not specified on this copy)

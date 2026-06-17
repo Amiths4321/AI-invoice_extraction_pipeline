@@ -1,0 +1,6 @@
+Invoice #INV-2026-001 from Acme Corp.
+Date: Jan 15, 2026. Due: Feb 15, 2026.
+Items: 2x Laptops @ $1,200.00 each ($2400.00 total).
+Subtotal: $2,400.00.
+Tax: $240.00.
+Total Due: $2,640.00 USD.
